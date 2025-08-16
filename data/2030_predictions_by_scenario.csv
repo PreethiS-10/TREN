@@ -1,0 +1,409 @@
+Country,Scenario,GDP growth (annual %),Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),Trade (% of GDP)
+Afghanistan,baseline,2.570412,0.8833283,54.183273
+Afghanistan,increased_social_spending,2.570412,0.8833283,54.183273
+Afghanistan,trade_diversification,2.570412,0.8833283,54.183273
+Afghanistan,global_crisis,2.570412,0.8833283,54.183273
+Albania,baseline,2.8873765,0.69576764,56.044025
+Albania,increased_social_spending,2.8873765,0.69576764,56.044025
+Albania,trade_diversification,2.8873765,0.69576764,56.044025
+Albania,global_crisis,2.8873765,0.69576764,56.044025
+Antigua and Barbuda,baseline,2.8873765,0.69576764,56.044025
+Antigua and Barbuda,increased_social_spending,2.8873765,0.69576764,56.044025
+Antigua and Barbuda,trade_diversification,2.8873765,0.69576764,56.044025
+Antigua and Barbuda,global_crisis,2.8873765,0.69576764,56.044025
+Argentina,baseline,-0.2943042,0.7628616,28.502596
+Argentina,increased_social_spending,-0.2943042,0.7628616,28.502596
+Argentina,trade_diversification,-0.2943042,0.7628616,28.502596
+Argentina,global_crisis,-0.2943042,0.7628616,28.502596
+Armenia,baseline,2.8873765,0.69576764,56.044025
+Armenia,increased_social_spending,2.8873765,0.69576764,56.044025
+Armenia,trade_diversification,2.8873765,0.69576764,56.044025
+Armenia,global_crisis,2.8873765,0.69576764,56.044025
+Australia,baseline,1.9867042,0.6829902,44.06967
+Australia,increased_social_spending,1.9867042,0.6829902,44.06967
+Australia,trade_diversification,1.9867042,0.6829902,44.06967
+Australia,global_crisis,1.9867042,0.6829902,44.06967
+Austria,baseline,2.8873765,0.69576764,56.044025
+Austria,increased_social_spending,2.8873765,0.69576764,56.044025
+Austria,trade_diversification,2.8873765,0.69576764,56.044025
+Austria,global_crisis,2.8873765,0.69576764,56.044025
+Azerbaijan,baseline,2.8873765,0.69576764,56.044025
+Azerbaijan,increased_social_spending,2.8873765,0.69576764,56.044025
+Azerbaijan,trade_diversification,2.8873765,0.69576764,56.044025
+Azerbaijan,global_crisis,2.8873765,0.69576764,56.044025
+Bangladesh,baseline,4.183799,0.7752633,27.530455
+Bangladesh,increased_social_spending,4.183799,0.7752633,27.530455
+Bangladesh,trade_diversification,4.183799,0.7752633,27.530455
+Bangladesh,global_crisis,4.183799,0.7752633,27.530455
+Barbados,baseline,2.8873765,0.69576764,56.044025
+Barbados,increased_social_spending,2.8873765,0.69576764,56.044025
+Barbados,trade_diversification,2.8873765,0.69576764,56.044025
+Barbados,global_crisis,2.8873765,0.69576764,56.044025
+Belgium,baseline,1.210333,0.63225675,157.64937
+Belgium,increased_social_spending,1.210333,0.63225675,157.64937
+Belgium,trade_diversification,1.210333,0.63225675,157.64937
+Belgium,global_crisis,1.210333,0.63225675,157.64937
+Belize,baseline,2.8873765,0.69576764,56.044025
+Belize,increased_social_spending,2.8873765,0.69576764,56.044025
+Belize,trade_diversification,2.8873765,0.69576764,56.044025
+Belize,global_crisis,2.8873765,0.69576764,56.044025
+Bolivia (Plurinational State of),baseline,2.8873765,0.69576764,56.044025
+Bolivia (Plurinational State of),increased_social_spending,2.8873765,0.69576764,56.044025
+Bolivia (Plurinational State of),trade_diversification,2.8873765,0.69576764,56.044025
+Bolivia (Plurinational State of),global_crisis,2.8873765,0.69576764,56.044025
+Bosnia Herzegovina,baseline,2.8873765,0.69576764,56.044025
+Bosnia Herzegovina,increased_social_spending,2.8873765,0.69576764,56.044025
+Bosnia Herzegovina,trade_diversification,2.8873765,0.69576764,56.044025
+Bosnia Herzegovina,global_crisis,2.8873765,0.69576764,56.044025
+Brazil,baseline,2.8873765,0.69576764,56.044025
+Brazil,increased_social_spending,2.8873765,0.69576764,56.044025
+Brazil,trade_diversification,2.8873765,0.69576764,56.044025
+Brazil,global_crisis,2.8873765,0.69576764,56.044025
+Bulgaria,baseline,2.8873765,0.69576764,56.044025
+Bulgaria,increased_social_spending,2.8873765,0.69576764,56.044025
+Bulgaria,trade_diversification,2.8873765,0.69576764,56.044025
+Bulgaria,global_crisis,2.8873765,0.69576764,56.044025
+Burkina Faso,baseline,2.8873765,0.69576764,56.044025
+Burkina Faso,increased_social_spending,2.8873765,0.69576764,56.044025
+Burkina Faso,trade_diversification,2.8873765,0.69576764,56.044025
+Burkina Faso,global_crisis,2.8873765,0.69576764,56.044025
+Canada,baseline,1.3447553,0.61631536,65.31736
+Canada,increased_social_spending,1.3447553,0.61631536,65.31736
+Canada,trade_diversification,1.3447553,0.61631536,65.31736
+Canada,global_crisis,1.3447553,0.61631536,65.31736
+Cayman Isds,baseline,2.8873765,0.69576764,56.044025
+Cayman Isds,increased_social_spending,2.8873765,0.69576764,56.044025
+Cayman Isds,trade_diversification,2.8873765,0.69576764,56.044025
+Cayman Isds,global_crisis,2.8873765,0.69576764,56.044025
+Chile,baseline,2.8873765,0.69576764,56.044025
+Chile,increased_social_spending,2.8873765,0.69576764,56.044025
+Chile,trade_diversification,2.8873765,0.69576764,56.044025
+Chile,global_crisis,2.8873765,0.69576764,56.044025
+China,baseline,4.4091773,0.7578348,36.09647
+China,increased_social_spending,4.4091773,0.7578348,36.09647
+China,trade_diversification,4.4091773,0.7578348,36.09647
+China,global_crisis,4.4091773,0.7578348,36.09647
+"China, Hong Kong SAR",baseline,2.8873765,0.69576764,56.044025
+"China, Hong Kong SAR",increased_social_spending,2.8873765,0.69576764,56.044025
+"China, Hong Kong SAR",trade_diversification,2.8873765,0.69576764,56.044025
+"China, Hong Kong SAR",global_crisis,2.8873765,0.69576764,56.044025
+"China, Macao SAR",baseline,2.8873765,0.69576764,56.044025
+"China, Macao SAR",increased_social_spending,2.8873765,0.69576764,56.044025
+"China, Macao SAR",trade_diversification,2.8873765,0.69576764,56.044025
+"China, Macao SAR",global_crisis,2.8873765,0.69576764,56.044025
+Croatia,baseline,3.1467562,0.6269381,99.858734
+Croatia,increased_social_spending,3.1467562,0.6269381,99.858734
+Croatia,trade_diversification,3.1467562,0.6269381,99.858734
+Croatia,global_crisis,3.1467562,0.6269381,99.858734
+Cyprus,baseline,2.8873765,0.69576764,56.044025
+Cyprus,increased_social_spending,2.8873765,0.69576764,56.044025
+Cyprus,trade_diversification,2.8873765,0.69576764,56.044025
+Cyprus,global_crisis,2.8873765,0.69576764,56.044025
+Czechia,baseline,2.8873765,0.69576764,56.044025
+Czechia,increased_social_spending,2.8873765,0.69576764,56.044025
+Czechia,trade_diversification,2.8873765,0.69576764,56.044025
+Czechia,global_crisis,2.8873765,0.69576764,56.044025
+Denmark,baseline,2.8873765,0.69576764,56.044025
+Denmark,increased_social_spending,2.8873765,0.69576764,56.044025
+Denmark,trade_diversification,2.8873765,0.69576764,56.044025
+Denmark,global_crisis,2.8873765,0.69576764,56.044025
+Dominican Rep.,baseline,2.8873765,0.69576764,56.044025
+Dominican Rep.,increased_social_spending,2.8873765,0.69576764,56.044025
+Dominican Rep.,trade_diversification,2.8873765,0.69576764,56.044025
+Dominican Rep.,global_crisis,2.8873765,0.69576764,56.044025
+Ecuador,baseline,2.8873765,0.69576764,56.044025
+Ecuador,increased_social_spending,2.8873765,0.69576764,56.044025
+Ecuador,trade_diversification,2.8873765,0.69576764,56.044025
+Ecuador,global_crisis,2.8873765,0.69576764,56.044025
+Egypt,baseline,2.8873765,0.69576764,56.044025
+Egypt,increased_social_spending,2.8873765,0.69576764,56.044025
+Egypt,trade_diversification,2.8873765,0.69576764,56.044025
+Egypt,global_crisis,2.8873765,0.69576764,56.044025
+El Salvador,baseline,2.8873765,0.69576764,56.044025
+El Salvador,increased_social_spending,2.8873765,0.69576764,56.044025
+El Salvador,trade_diversification,2.8873765,0.69576764,56.044025
+El Salvador,global_crisis,2.8873765,0.69576764,56.044025
+Estonia,baseline,2.8873765,0.69576764,56.044025
+Estonia,increased_social_spending,2.8873765,0.69576764,56.044025
+Estonia,trade_diversification,2.8873765,0.69576764,56.044025
+Estonia,global_crisis,2.8873765,0.69576764,56.044025
+Fiji,baseline,2.8873765,0.69576764,56.044025
+Fiji,increased_social_spending,2.8873765,0.69576764,56.044025
+Fiji,trade_diversification,2.8873765,0.69576764,56.044025
+Fiji,global_crisis,2.8873765,0.69576764,56.044025
+Finland,baseline,2.8873765,0.69576764,56.044025
+Finland,increased_social_spending,2.8873765,0.69576764,56.044025
+Finland,trade_diversification,2.8873765,0.69576764,56.044025
+Finland,global_crisis,2.8873765,0.69576764,56.044025
+France,baseline,1.6360028,0.47538778,68.5545
+France,increased_social_spending,1.6360028,0.47538778,68.5545
+France,trade_diversification,1.6360028,0.47538778,68.5545
+France,global_crisis,1.6360028,0.47538778,68.5545
+French Polynesia,baseline,2.8873765,0.69576764,56.044025
+French Polynesia,increased_social_spending,2.8873765,0.69576764,56.044025
+French Polynesia,trade_diversification,2.8873765,0.69576764,56.044025
+French Polynesia,global_crisis,2.8873765,0.69576764,56.044025
+Georgia,baseline,2.8873765,0.69576764,56.044025
+Georgia,increased_social_spending,2.8873765,0.69576764,56.044025
+Georgia,trade_diversification,2.8873765,0.69576764,56.044025
+Georgia,global_crisis,2.8873765,0.69576764,56.044025
+Germany,baseline,0.30098197,0.60670245,80.55863
+Germany,increased_social_spending,0.30098197,0.60670245,80.55863
+Germany,trade_diversification,0.30098197,0.60670245,80.55863
+Germany,global_crisis,0.30098197,0.60670245,80.55863
+Greece,baseline,2.8873765,0.69576764,56.044025
+Greece,increased_social_spending,2.8873765,0.69576764,56.044025
+Greece,trade_diversification,2.8873765,0.69576764,56.044025
+Greece,global_crisis,2.8873765,0.69576764,56.044025
+Grenada,baseline,2.8873765,0.69576764,56.044025
+Grenada,increased_social_spending,2.8873765,0.69576764,56.044025
+Grenada,trade_diversification,2.8873765,0.69576764,56.044025
+Grenada,global_crisis,2.8873765,0.69576764,56.044025
+Guatemala,baseline,2.8873765,0.69576764,56.044025
+Guatemala,increased_social_spending,2.8873765,0.69576764,56.044025
+Guatemala,trade_diversification,2.8873765,0.69576764,56.044025
+Guatemala,global_crisis,2.8873765,0.69576764,56.044025
+Guyana,baseline,2.8873765,0.69576764,56.044025
+Guyana,increased_social_spending,2.8873765,0.69576764,56.044025
+Guyana,trade_diversification,2.8873765,0.69576764,56.044025
+Guyana,global_crisis,2.8873765,0.69576764,56.044025
+Hungary,baseline,2.8873765,0.69576764,56.044025
+Hungary,increased_social_spending,2.8873765,0.69576764,56.044025
+Hungary,trade_diversification,2.8873765,0.69576764,56.044025
+Hungary,global_crisis,2.8873765,0.69576764,56.044025
+Iceland,baseline,2.8873765,0.69576764,56.044025
+Iceland,increased_social_spending,2.8873765,0.69576764,56.044025
+Iceland,trade_diversification,2.8873765,0.69576764,56.044025
+Iceland,global_crisis,2.8873765,0.69576764,56.044025
+India,baseline,5.596669,0.69598734,43.07764
+India,increased_social_spending,5.596669,0.69598734,43.07764
+India,trade_diversification,5.596669,0.69598734,43.07764
+India,global_crisis,5.596669,0.69598734,43.07764
+Iran (Islamic Republic of),baseline,2.8873765,0.69576764,56.11707
+Iran (Islamic Republic of),increased_social_spending,2.8873765,0.69576764,56.11707
+Iran (Islamic Republic of),trade_diversification,2.8873765,0.69576764,56.11707
+Iran (Islamic Republic of),global_crisis,2.8873765,0.69576764,56.11707
+"Iran, Islamic Rep.",baseline,3.1401572,0.737025,51.42864
+"Iran, Islamic Rep.",increased_social_spending,3.1401572,0.737025,51.42864
+"Iran, Islamic Rep.",trade_diversification,3.1401572,0.737025,51.42864
+"Iran, Islamic Rep.",global_crisis,3.1401572,0.737025,51.42864
+Iraq,baseline,-1.0860788,0.7443516,71.11731
+Iraq,increased_social_spending,-1.0860788,0.7443516,71.11731
+Iraq,trade_diversification,-1.0860788,0.7443516,71.11731
+Iraq,global_crisis,-1.0860788,0.7443516,71.11731
+Ireland,baseline,2.8873765,0.69576764,56.044025
+Ireland,increased_social_spending,2.8873765,0.69576764,56.044025
+Ireland,trade_diversification,2.8873765,0.69576764,56.044025
+Ireland,global_crisis,2.8873765,0.69576764,56.044025
+Israel,baseline,1.3173275,0.6899904,52.950153
+Israel,increased_social_spending,1.3173275,0.6899904,52.950153
+Israel,trade_diversification,1.3173275,0.6899904,52.950153
+Israel,global_crisis,1.3173275,0.6899904,52.950153
+Italy,baseline,0.91995597,0.54014313,62.382492
+Italy,increased_social_spending,0.91995597,0.54014313,62.382492
+Italy,trade_diversification,0.91995597,0.54014313,62.382492
+Italy,global_crisis,0.91995597,0.54014313,62.382492
+Japan,baseline,0.3740512,0.61913157,58.01511
+Japan,increased_social_spending,0.3740512,0.61913157,58.01511
+Japan,trade_diversification,0.3740512,0.61913157,58.01511
+Japan,global_crisis,0.3740512,0.61913157,58.01511
+Kyrgyzstan,baseline,2.8873765,0.69576764,56.044025
+Kyrgyzstan,increased_social_spending,2.8873765,0.69576764,56.044025
+Kyrgyzstan,trade_diversification,2.8873765,0.69576764,56.044025
+Kyrgyzstan,global_crisis,2.8873765,0.69576764,56.044025
+Latvia,baseline,2.8873765,0.69576764,56.044025
+Latvia,increased_social_spending,2.8873765,0.69576764,56.044025
+Latvia,trade_diversification,2.8873765,0.69576764,56.044025
+Latvia,global_crisis,2.8873765,0.69576764,56.044025
+Lithuania,baseline,2.8873765,0.69576764,56.044025
+Lithuania,increased_social_spending,2.8873765,0.69576764,56.044025
+Lithuania,trade_diversification,2.8873765,0.69576764,56.044025
+Lithuania,global_crisis,2.8873765,0.69576764,56.044025
+Luxembourg,baseline,2.8873765,0.69576764,56.044025
+Luxembourg,increased_social_spending,2.8873765,0.69576764,56.044025
+Luxembourg,trade_diversification,2.8873765,0.69576764,56.044025
+Luxembourg,global_crisis,2.8873765,0.69576764,56.044025
+Malaysia,baseline,2.8873765,0.69576764,56.044025
+Malaysia,increased_social_spending,2.8873765,0.69576764,56.044025
+Malaysia,trade_diversification,2.8873765,0.69576764,56.044025
+Malaysia,global_crisis,2.8873765,0.69576764,56.044025
+Maldives,baseline,2.8873765,0.69576764,56.044025
+Maldives,increased_social_spending,2.8873765,0.69576764,56.044025
+Maldives,trade_diversification,2.8873765,0.69576764,56.044025
+Maldives,global_crisis,2.8873765,0.69576764,56.044025
+Malta,baseline,2.8873765,0.69576764,56.044025
+Malta,increased_social_spending,2.8873765,0.69576764,56.044025
+Malta,trade_diversification,2.8873765,0.69576764,56.044025
+Malta,global_crisis,2.8873765,0.69576764,56.044025
+Mauritius,baseline,2.8873765,0.69576764,56.044025
+Mauritius,increased_social_spending,2.8873765,0.69576764,56.044025
+Mauritius,trade_diversification,2.8873765,0.69576764,56.044025
+Mauritius,global_crisis,2.8873765,0.69576764,56.044025
+Mexico,baseline,2.8873765,0.69576764,56.044025
+Mexico,increased_social_spending,2.8873765,0.69576764,56.044025
+Mexico,trade_diversification,2.8873765,0.69576764,56.044025
+Mexico,global_crisis,2.8873765,0.69576764,56.044025
+Montenegro,baseline,2.8873765,0.69576764,56.044025
+Montenegro,increased_social_spending,2.8873765,0.69576764,56.044025
+Montenegro,trade_diversification,2.8873765,0.69576764,56.044025
+Montenegro,global_crisis,2.8873765,0.69576764,56.044025
+Myanmar,baseline,2.8873765,0.69576764,56.044025
+Myanmar,increased_social_spending,2.8873765,0.69576764,56.044025
+Myanmar,trade_diversification,2.8873765,0.69576764,56.044025
+Myanmar,global_crisis,2.8873765,0.69576764,56.044025
+Namibia,baseline,2.8873765,0.69576764,56.044025
+Namibia,increased_social_spending,2.8873765,0.69576764,56.044025
+Namibia,trade_diversification,2.8873765,0.69576764,56.044025
+Namibia,global_crisis,2.8873765,0.69576764,56.044025
+Netherlands,baseline,2.8873765,0.69576764,56.044025
+Netherlands,increased_social_spending,2.8873765,0.69576764,56.044025
+Netherlands,trade_diversification,2.8873765,0.69576764,56.044025
+Netherlands,global_crisis,2.8873765,0.69576764,56.044025
+New Zealand,baseline,2.8873765,0.69576764,56.044025
+New Zealand,increased_social_spending,2.8873765,0.69576764,56.044025
+New Zealand,trade_diversification,2.8873765,0.69576764,56.044025
+New Zealand,global_crisis,2.8873765,0.69576764,56.044025
+Nigeria,baseline,2.8873765,0.69576764,56.044025
+Nigeria,increased_social_spending,2.8873765,0.69576764,56.044025
+Nigeria,trade_diversification,2.8873765,0.69576764,56.044025
+Nigeria,global_crisis,2.8873765,0.69576764,56.044025
+North Macedonia,baseline,2.8873765,0.69576764,56.044025
+North Macedonia,increased_social_spending,2.8873765,0.69576764,56.044025
+North Macedonia,trade_diversification,2.8873765,0.69576764,56.044025
+North Macedonia,global_crisis,2.8873765,0.69576764,56.044025
+Norway,baseline,2.8873765,0.69576764,56.044025
+Norway,increased_social_spending,2.8873765,0.69576764,56.044025
+Norway,trade_diversification,2.8873765,0.69576764,56.044025
+Norway,global_crisis,2.8873765,0.69576764,56.044025
+Pakistan,baseline,3.3052068,0.7712723,28.74108
+Pakistan,increased_social_spending,3.3052068,0.7712723,28.74108
+Pakistan,trade_diversification,3.3052068,0.7712723,28.74108
+Pakistan,global_crisis,3.3052068,0.7712723,28.74108
+Panama,baseline,2.8873765,0.69576764,56.044025
+Panama,increased_social_spending,2.8873765,0.69576764,56.044025
+Panama,trade_diversification,2.8873765,0.69576764,56.044025
+Panama,global_crisis,2.8873765,0.69576764,56.044025
+Paraguay,baseline,2.8873765,0.69576764,56.044025
+Paraguay,increased_social_spending,2.8873765,0.69576764,56.044025
+Paraguay,trade_diversification,2.8873765,0.69576764,56.044025
+Paraguay,global_crisis,2.8873765,0.69576764,56.044025
+Peru,baseline,2.8873765,0.69576764,56.044025
+Peru,increased_social_spending,2.8873765,0.69576764,56.044025
+Peru,trade_diversification,2.8873765,0.69576764,56.044025
+Peru,global_crisis,2.8873765,0.69576764,56.044025
+Philippines,baseline,2.8873765,0.69576764,56.044025
+Philippines,increased_social_spending,2.8873765,0.69576764,56.044025
+Philippines,trade_diversification,2.8873765,0.69576764,56.044025
+Philippines,global_crisis,2.8873765,0.69576764,56.044025
+Poland,baseline,2.8873765,0.69576764,56.044025
+Poland,increased_social_spending,2.8873765,0.69576764,56.044025
+Poland,trade_diversification,2.8873765,0.69576764,56.044025
+Poland,global_crisis,2.8873765,0.69576764,56.044025
+Portugal,baseline,2.4220686,0.6116829,90.40543
+Portugal,increased_social_spending,2.4220686,0.6116829,90.40543
+Portugal,trade_diversification,2.4220686,0.6116829,90.40543
+Portugal,global_crisis,2.4220686,0.6116829,90.40543
+Rep. of Korea,baseline,2.8873765,0.69576764,56.044025
+Rep. of Korea,increased_social_spending,2.8873765,0.69576764,56.044025
+Rep. of Korea,trade_diversification,2.8873765,0.69576764,56.044025
+Rep. of Korea,global_crisis,2.8873765,0.69576764,56.044025
+Rep. of Moldova,baseline,2.8873765,0.69576764,56.044025
+Rep. of Moldova,increased_social_spending,2.8873765,0.69576764,56.044025
+Rep. of Moldova,trade_diversification,2.8873765,0.69576764,56.044025
+Rep. of Moldova,global_crisis,2.8873765,0.69576764,56.044025
+Romania,baseline,2.8873765,0.69576764,56.044025
+Romania,increased_social_spending,2.8873765,0.69576764,56.044025
+Romania,trade_diversification,2.8873765,0.69576764,56.044025
+Romania,global_crisis,2.8873765,0.69576764,56.044025
+Russian Federation,baseline,3.6134615,0.7090113,37.450687
+Russian Federation,increased_social_spending,3.6134615,0.7090113,37.450687
+Russian Federation,trade_diversification,3.6134615,0.7090113,37.450687
+Russian Federation,global_crisis,3.6134615,0.7090113,37.450687
+Saudi Arabia,baseline,2.0413885,0.6883725,53.19334
+Saudi Arabia,increased_social_spending,2.0413885,0.6883725,53.19334
+Saudi Arabia,trade_diversification,2.0413885,0.6883725,53.19334
+Saudi Arabia,global_crisis,2.0413885,0.6883725,53.19334
+Serbia,baseline,2.8873765,0.69576764,56.044025
+Serbia,increased_social_spending,2.8873765,0.69576764,56.044025
+Serbia,trade_diversification,2.8873765,0.69576764,56.044025
+Serbia,global_crisis,2.8873765,0.69576764,56.044025
+Slovakia,baseline,2.8873765,0.69576764,56.044025
+Slovakia,increased_social_spending,2.8873765,0.69576764,56.044025
+Slovakia,trade_diversification,2.8873765,0.69576764,56.044025
+Slovakia,global_crisis,2.8873765,0.69576764,56.044025
+Slovenia,baseline,2.8873765,0.69576764,56.044025
+Slovenia,increased_social_spending,2.8873765,0.69576764,56.044025
+Slovenia,trade_diversification,2.8873765,0.69576764,56.044025
+Slovenia,global_crisis,2.8873765,0.69576764,56.044025
+South Africa,baseline,2.8873765,0.69576764,56.044025
+South Africa,increased_social_spending,2.8873765,0.69576764,56.044025
+South Africa,trade_diversification,2.8873765,0.69576764,56.044025
+South Africa,global_crisis,2.8873765,0.69576764,56.044025
+Spain,baseline,2.2673426,0.718078,69.97188
+Spain,increased_social_spending,2.2673426,0.718078,69.97188
+Spain,trade_diversification,2.2673426,0.718078,69.97188
+Spain,global_crisis,2.2673426,0.718078,69.97188
+Sri Lanka,baseline,4.566098,0.7244812,41.375458
+Sri Lanka,increased_social_spending,4.566098,0.7244812,41.375458
+Sri Lanka,trade_diversification,4.566098,0.7244812,41.375458
+Sri Lanka,global_crisis,4.566098,0.7244812,41.375458
+Suriname,baseline,2.8873765,0.69576764,56.044025
+Suriname,increased_social_spending,2.8873765,0.69576764,56.044025
+Suriname,trade_diversification,2.8873765,0.69576764,56.044025
+Suriname,global_crisis,2.8873765,0.69576764,56.044025
+Sweden,baseline,1.2736537,0.69534457,105.01366
+Sweden,increased_social_spending,1.2736537,0.69534457,105.01366
+Sweden,trade_diversification,1.2736537,0.69534457,105.01366
+Sweden,global_crisis,1.2736537,0.69534457,105.01366
+Switzerland,baseline,2.8873765,0.69576764,56.044025
+Switzerland,increased_social_spending,2.8873765,0.69576764,56.044025
+Switzerland,trade_diversification,2.8873765,0.69576764,56.044025
+Switzerland,global_crisis,2.8873765,0.69576764,56.044025
+Thailand,baseline,2.8873765,0.69576764,56.044025
+Thailand,increased_social_spending,2.8873765,0.69576764,56.044025
+Thailand,trade_diversification,2.8873765,0.69576764,56.044025
+Thailand,global_crisis,2.8873765,0.69576764,56.044025
+Togo,baseline,2.8873765,0.69576764,56.044025
+Togo,increased_social_spending,2.8873765,0.69576764,56.044025
+Togo,trade_diversification,2.8873765,0.69576764,56.044025
+Togo,global_crisis,2.8873765,0.69576764,56.044025
+Trinidad and Tobago,baseline,2.8873765,0.69576764,56.044025
+Trinidad and Tobago,increased_social_spending,2.8873765,0.69576764,56.044025
+Trinidad and Tobago,trade_diversification,2.8873765,0.69576764,56.044025
+Trinidad and Tobago,global_crisis,2.8873765,0.69576764,56.044025
+Türkiye,baseline,2.8873765,0.69576764,56.044025
+Türkiye,increased_social_spending,2.8873765,0.69576764,56.044025
+Türkiye,trade_diversification,2.8873765,0.69576764,56.044025
+Türkiye,global_crisis,2.8873765,0.69576764,56.044025
+USA,baseline,2.8873765,0.69576764,56.044025
+USA,increased_social_spending,2.8873765,0.69576764,56.044025
+USA,trade_diversification,2.8873765,0.69576764,56.044025
+USA,global_crisis,2.8873765,0.69576764,56.044025
+Ukraine,baseline,2.8873765,0.69576764,56.044025
+Ukraine,increased_social_spending,2.8873765,0.69576764,56.044025
+Ukraine,trade_diversification,2.8873765,0.69576764,56.044025
+Ukraine,global_crisis,2.8873765,0.69576764,56.044025
+United Kingdom,baseline,1.4294951,0.55926085,61.173546
+United Kingdom,increased_social_spending,1.4294951,0.55926085,61.173546
+United Kingdom,trade_diversification,1.4294951,0.55926085,61.173546
+United Kingdom,global_crisis,1.4294951,0.55926085,61.173546
+United Kingdom of Great Britain and Northern Ireland,baseline,2.8873765,0.69576764,56.11707
+United Kingdom of Great Britain and Northern Ireland,increased_social_spending,2.8873765,0.69576764,56.11707
+United Kingdom of Great Britain and Northern Ireland,trade_diversification,2.8873765,0.69576764,56.11707
+United Kingdom of Great Britain and Northern Ireland,global_crisis,2.8873765,0.69576764,56.11707
+United States,baseline,2.5002253,0.7451196,24.988039
+United States,increased_social_spending,2.5002253,0.7451196,24.988039
+United States,trade_diversification,2.5002253,0.7451196,24.988039
+United States,global_crisis,2.5002253,0.7451196,24.988039
+United States of America,baseline,2.8733792,0.7093743,56.044025
+United States of America,increased_social_spending,2.8733792,0.7093743,56.044025
+United States of America,trade_diversification,2.8733792,0.7093743,56.044025
+United States of America,global_crisis,2.8733792,0.7093743,56.044025
+Uzbekistan,baseline,2.8873765,0.69576764,56.044025
+Uzbekistan,increased_social_spending,2.8873765,0.69576764,56.044025
+Uzbekistan,trade_diversification,2.8873765,0.69576764,56.044025
+Uzbekistan,global_crisis,2.8873765,0.69576764,56.044025
+Zimbabwe,baseline,2.8873765,0.69576764,56.044025
+Zimbabwe,increased_social_spending,2.8873765,0.69576764,56.044025
+Zimbabwe,trade_diversification,2.8873765,0.69576764,56.044025
+Zimbabwe,global_crisis,2.8873765,0.69576764,56.044025

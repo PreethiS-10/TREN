@@ -1,0 +1,3 @@
+Highest poverty (0.68) under scenario: baseline
+Lowest GDP growth (1.99) under scenario: baseline
+Highest trade exposure (44.07%) under scenario: baseline
