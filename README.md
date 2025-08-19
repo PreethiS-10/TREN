@@ -90,13 +90,6 @@ This README explains how the solution is structured and how it was implemented, 
 - Rule-based recommendations keyed to critical thresholds (poverty, growth, trade exposure, disaster damages, debt, inflation, inequality, unemployment).
 - What-if functions to quantify impacts of user-driven inputs (e.g., change in GDP growth or disaster damages).
 
-## Optimization (Q13 – in your Streamlit app)
-- Problem: Minimize the maximum country-level GDP loss under single-point failure.
-- Decision variables: Binary build decisions for potential links between country pairs.
-- Constraints: Budget, geopolitical (no-trade pairs), distance threshold, capacity placeholder.
-- Implementation: PuLP with CBC solver; caching results and saving figure/summary (as extended in your Streamlit integration).
-- Output: Set of new links to build and a directed graph of chosen links.
-
 ## How to Run
 1) Prepare data
 - Place raw CSVs under data/:
