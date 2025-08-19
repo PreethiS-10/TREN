@@ -165,6 +165,77 @@ This README explains how the solution is structured and how it was implemented, 
 - Disaster damages in preprocess are in '000 USD in source and later normalized/scaled; check scaling before interpretation.
 - Geospatial names must match shapefile naming (NAME/ADMIN) for correct joins in maps.
 
-## Acknowledgments
-Built by the TREN analytics team to support policymakers across 25 nations in planning for resilient, inclusive growth by 2030.
+## Additional Code Modules Overview
+
+The following modules provide specialized analyses, simulations, forecasting, optimization, and visualization functions to enhance the TREN analytics capabilities:
+
+### q1.py — Top Trade Dependency & GDP Impact
+- Calculates the Trade Dependency Index (TDI) for countries based on their largest export partner share for the latest data year.
+- Identifies the top 3 countries most vulnerable due to dependency.
+- Simulates GDP impact under a scenario of a 40% drop in imports from the top trade partner.
+- Returns vulnerability rankings and estimated GDP losses.
+
+### q2.py — Cascading Shock from China Export Drop
+- Simulates economic impact on trading partners if China’s exports drop by a specified percentage (default 25%) in a shock year (default 2028).
+- Calculates GDP percentage and USD loss estimates for affected countries.
+- Highlights the top 5 countries most impacted by a cascading shock originating from China.
+
+### q3.py — Drought Impact on Exports (Statistical Prediction)
+- Uses historical export data from countries to predict expected export values for the year 2030 assuming no drought.
+- Estimates export losses during a 3-year drought period with a defined yield drop (default 20%).
+- Identifies countries most vulnerable to drought-induced export reductions.
+
+### q4.py — Agricultural Import Partner Dependency & Food Security Risk
+- Analyzes agricultural import dependencies by countries on their top partners for a specific year.
+- Calculates the import share concentration from top partners and flags countries with high dependency (>60%).
+- Models food security risk based on potential import losses if top partners impose export bans.
+
+### q5.py — Youth Unemployment Forecast via XGBoost
+- Trains country-specific time series XGBoost regression models on youth unemployment data.
+- Performs grid search cross-validation to optimize hyperparameters.
+- Predicts 2030 youth unemployment rates with an increase scenario factor (default +15%).
+- Flags countries at risk with unemployment predicted above 10%.
+
+### q6.py — Export Risk Prediction with ElasticNet Regression
+- Predicts exports as a percentage of GDP using median age as a feature.
+- Uses ElasticNet regression with cross-validation for regularization.
+- Projects export percentages at future median ages (+5, +10, +15 years).
+- Provides ranked export risk predictions across countries.
+
+### q7.py — Trade Network Analysis & Disruption Simulation
+- Constructs a directed graph of top global exporters and their trade partners based on export values.
+- Computes network centrality measures like degree and betweenness centrality.
+- Visualizes trade networks and shows the impact of removing the most central country on network connectivity and trade volume.
+- Outputs metrics on trade volume lost and network fragmentation.
+
+### q8.py — Bilateral Trade Route Impact on GDP
+- Identifies top bilateral trade pairs by total export value.
+- Calculates the estimated GDP loss percentage for each country if bilateral trade is disrupted.
+- Highlights the top 5 highest-value bilateral trade pairs and their economic impact.
+
+### q9.py — Trade Partner Diversification Recommendations
+- Calculates export concentration among top partners to identify trade dependency.
+- Suggests new trade partners from the list of global top exporters to diversify and reduce concentration risk.
+- Recommends diversification policies tailored to each country.
+
+### q10.py — Shock Scenario Forecast Predictions (GDP, Poverty, Unemployment)
+- Uses Decision Tree regressors to forecast GDP, poverty, and unemployment trends to 2030.
+- Applies scenario multipliers simulating disaster shocks and trade war impacts.
+- Outputs predicted values under combined shock scenarios for respective indicators.
+
+### q11.py — Ridge Regression Forecasts with Best and Worst Case Scenarios
+- Applies Ridge regression to model economic indicators’ trajectories.
+- Produces forecasts for GDP and poverty for 2030 under optimistic (growth) and pessimistic (decline) adjustment assumptions.
+- Stores predictions for integrated scenario analysis.
+
+### q12.py — Moving Average Forecasting of Economic Factors
+- Uses a moving average method to predict economic indicators for 2030.
+- Covers a broad set of macroeconomic and social factors.
+- Serves as a simple baseline forecasting method complementing advanced models.
+
+### q13.py — Optimization of Trade and Infrastructure Links
+- Formulates and solves a linear programming problem to minimize the maximum GDP loss linked to trade failures.
+- Builds optimal new trade/infrastructure links constrained by budget and maximum distance.
+- Includes geopolitical and distance restrictions on possible links.
+- Produces visualizations of recommended new trade networks and their expected resilience benefits.
 
