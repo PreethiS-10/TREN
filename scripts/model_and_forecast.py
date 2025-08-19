@@ -4,9 +4,8 @@ import pickle
 import os
 from sklearn.model_selection import GridSearchCV, cross_val_score
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.preprocessing import StandardScaler
 from xgboost import XGBRegressor
-from scipy.stats import zscore
+
 
 # Load full dataframe and remove exact duplicate columns
 df = pd.read_csv("../data/processed_master_df.csv")
