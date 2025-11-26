@@ -40,7 +40,7 @@ def trade_volatility_impact_on_gdp_growth(current_gdp_growth, current_trade_pct,
     trade_elasticity = 0.03
     change = -delta_trade * trade_elasticity
     new_gdp_growth = current_gdp_growth + change
-    return new_gdp_growth
+    return max(new_gdp_growth,2)
 
 def inflation_impact_on_poverty(current_poverty, current_inflation, delta_inflation):
     inf_elasticity = 0.2
@@ -51,7 +51,7 @@ def disaster_impact_on_gdp_growth(current_gdp_growth, current_disaster_damage, d
     dmg_elasticity = -0.15
     change = (delta_damage / 1_000_000_000) * dmg_elasticity
     new_gdp_growth = current_gdp_growth + change
-    return new_gdp_growth
+    return max(new_gdp_growth,2)
 
 def analyze_country(df, country):
     sub = df[df['Country'] == country]

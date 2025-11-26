@@ -28,7 +28,7 @@ def run_trade_route_impact(exports_path="data/processed_exports_full.csv",
         bilateral_trade = row['total_bilateral_trade']
 
         gdp_a = gdp_df[(gdp_df['Country'] == country_a) & (gdp_df['Year'] == latest_year)]['GDP (current US$)'].values[0]
-        gdp_b = gdp_df[(gdp_df['Country'] == country_b) & (gdp_df['Year'] == latest_year)]['GDP (current US$)'].values
+        gdp_b = gdp_df[(gdp_df['Country'] == country_b) & (gdp_df['Year'] == latest_year)]['GDP (current US$)'].values[0]
 
         impact_a_pct = (bilateral_trade / gdp_a) * 100
         impact_b_pct = (bilateral_trade / gdp_b) * 100
